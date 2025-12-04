@@ -1,3 +1,5 @@
+<img width="360" height="360" alt="Netflix logo" src="https://github.com/user-attachments/assets/2286486c-b97e-447e-9307-b9707e5d547e" />
+
 # Netflix-Data-Analysis-using-PostgreSQL
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using PostgreSQL. The goal is to extract valuable insights and answer various business questions based on the dataset.
 
